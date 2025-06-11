@@ -2,7 +2,7 @@
 
 This project predicts customer churn using a real-world telecom dataset. It includes complete data preprocessing, feature engineering, visualization, class balancing using SMOTE, and evaluation of three powerful models: **Logistic Regression**, **Random Forest**, and **XGBoost**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo-name/blob/main/Churn_Prediction_Task2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammedTaha-751/FUTURE_ML_2/blob/main/Churn_Prediction_Task2.ipynb)
 
 ---
 
@@ -42,7 +42,7 @@ Each model was evaluated using:
 ## 📎 How to Use
 
 1. Open the notebook in Google Colab:  
-   [Click here to run in Colab](https://colab.research.google.com/github/yourusername/your-repo-name/blob/main/Churn_Prediction_Task2.ipynb)
+   [Click here to run in Colab](https://colab.research.google.com/github/MohammedTaha-751/FUTURE_ML_2/blob/main/Churn_Prediction_Task2.ipynb)
 
 2. Install dependencies:
    ```bash
@@ -77,7 +77,7 @@ This project is part of **Task 2 – Churn Prediction System** in the **Future I
 **Mohammed Taha Ahamed**  
 B.E. Information Science & Engineering  
 HKBK College of Engineering  
-2022 Batch
+2025 Batch
 
 ---
 
